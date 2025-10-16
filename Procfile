@@ -1,0 +1,1 @@
+worker: python bot_gols_playwright_1tempo_minuto_corrigido.py
